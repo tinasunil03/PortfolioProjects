@@ -1,6 +1,6 @@
 /*
 
-Queries used for Tableau Project
+Queries used for Tableau Project from the Covid Data
 
 */
 
