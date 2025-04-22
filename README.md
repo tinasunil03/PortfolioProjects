@@ -11,7 +11,7 @@ cleaning, visualization, and correlation analysis.
 
 ### 2. **Tableau Visualization using SQL Output**
 - Generated a Tableau dashboard using outputs from SQL queries.
-- 
+  
 ### 3.  **Data Cleaning in SQL**
 - Cleaned raw Nashville Housing dataset to make them analysis-ready.
 
