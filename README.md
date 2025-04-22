@@ -20,11 +20,16 @@ cleaning, visualization, and correlation analysis.
 - Explored correlations between Movie Features using the movies dataset.
 - Used Python libraries like Pandas, Seaborn, and Matplotlib for analysis and visualization.
 
+### 5. **Amazon Web Scraping Using Python**
+- Scrape data from Amazon using BeautifulSoup and Requests.
+- Stored the scraped data in CSV format for further analysis.
+
 ## 📊 Tools & Technologies
-- **SQL** (for querying and data cleaning)
+- **SQL** 
 - **Python** (Pandas, Seaborn, Matplotlib)
-- **Tableau** (for interactive dashboards)
-- **Jupyter Notebook** / **SQL Server** (based on the project)
+- **Tableau** 
+- **Jupyter Notebook** / **SQL Server**
+- **BeautifulSoup** & **Requests** (Python libraries) 
 
 ## 📂 Datasets
 All datasets used in these projects are also uploaded for reference and reproducibility.
