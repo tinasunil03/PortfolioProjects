@@ -11,6 +11,7 @@ cleaning, visualization, and correlation analysis.
 
 ### 2. **Tableau Visualization using SQL Output**
 - Generated a Tableau dashboard using outputs from SQL queries.
+-  Visualized trends in COVID-19 cases and mortality rates across regions and time.
   
 ### 3.  **Data Cleaning in SQL**
 - Cleaned raw Nashville Housing dataset to make them analysis-ready.
